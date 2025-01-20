@@ -15,7 +15,7 @@ $actual_link = explode('=', "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>Ample Billing and Inventory Software</title>
+  <title>Inventory Software</title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
@@ -64,7 +64,7 @@ $actual_link = explode('=', "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
       </li>
     </ul>
 <marquee behavior="scroll" direction="left" scrollamount="4"><p style="color: red;">
-                This Project is developed for Academic study purpose only. | Never Sell or Distribute with your Name OR Branding</p>
+                This project is developed for Meit</p>
             </marquee>
  <!-- Right navbar links -->
     <ul class="navbar-nav ml-auto">
@@ -73,18 +73,18 @@ $actual_link = explode('=', "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
       <div class="notice">
                  <li>
                      <i class="material-symbols-outlined">
-                         <a href="https://www.youtube.com/@MayuriK/videos" target="_blank"> notifications</a></i>
+                         <a href="https://www.youtube.com/@Christopher-Chilengwe/videos" target="_blank"> notifications</a></i>
                     </li>
-                    <li> <i class="material-symbols-outlined"><a href="mailto: mayuri.infospace@gmail.com" target="_blank"> mail</a></i></li>
+                    <li> <i class="material-symbols-outlined"><a href="mail: christopherchilengwe@gmail.com" target="_blank"> mail</a></i></li>
                     <li>
-                      <i class="material-symbols-outlined"><a href="https://www.mayurik.com/#download_section" target="_blank"> redeem</a> </i>   
+                      <i class="material-symbols-outlined"><a href="https://www.chilengwe.com/#download_section" target="_blank"> redeem</a> </i>   
                     </li>
       </div>
                     
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
-          <img src="https://img.freepik.com/premium-vector/woman-avatar-profile-round-icon_24640-14042.jpg">
-            <span>Mayurik<strong> Freelancer</strong></span>
+          <img src="https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14042.jpg">
+            <span>Christopher<strong> Developer</strong></span>
         </a>
         <div class="dropdown-menu dropdown-menu-right p-0">
           <a href="index.php?page=profile" class="dropdown-item p-1">
