@@ -3,7 +3,7 @@
   <aside class="main-sidebar sidebar ">
 
     <!-- Brand Logo -->
-    <a href="https://mayurik.com" class="brand-link">
+    <a href="https://streamhive.42web.io/" class="brand-link">
       <img src="dist/img/log.jpg" alt="logo" class="brand-image ">
      
     </a>
